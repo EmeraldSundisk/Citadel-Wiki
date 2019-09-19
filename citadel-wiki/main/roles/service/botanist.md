@@ -6,13 +6,11 @@ The Botanist
 ## NT_Hydro
 No matter what you grow, you can expect it to be in a hydroponics tray. This not only spares you from getting "down and dirty" but also makes it far easier to assess a plant's condition! **Just remember the following color code:**
 
-
-
-Green: Plant is ready to harvest!
-Red: Plant is unhealthy.
-Red, flashing: Plant is either competing with weeds or pests.
-Yellow: Plant lacks nutrient.
-Blue: Plant lacks water.
+- Green: Plant is ready to harvest!
+- Red: Plant is unhealthy.
+- Red, flashing: Plant is either competing with weeds or pests.
+- Yellow: Plant lacks nutrient.
+- Blue: Plant lacks water.
 
 Plants should be harvested regularly, especially perennials that can provide multiple harvests in their lifetime. Water should be self-explanatory. ...
 
