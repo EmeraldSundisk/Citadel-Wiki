@@ -20,7 +20,11 @@ To avoid running out of seeds, you should insert part of your harvests into the 
 
 ## Photosynthesis: Hacked
 
-From humble acorns mighty oaks may grow, but nobody in the 26th century has time to wait for that. Fortunately it's become possible to create incredible plants from the get-go by **extracting traits from other seeds**.
+From humble acorns mighty oaks may grow, but nobody in the 26th century has time to wait for that. Fortunately it's become possible to create incredible plants from the get-go by **extracting traits from other seeds**. All you need is a plant data disk and a pack of seeds you're willing to lose.
+
+Slap both into...
+
+In addition to your conventional stats, there's ...
 
 ## Grow-A-Guy Garden - Podpeople
 
