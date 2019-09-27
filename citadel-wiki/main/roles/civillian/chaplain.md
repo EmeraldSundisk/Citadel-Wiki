@@ -1,7 +1,7 @@
 The Chaplain
 ===
 
-**The Chaplain** is effectively a spiritual advisor for the crew, although they still answer to the [Head of Personnel]() when it comes to mortal employment. Although [recent medical breakthroughs]() have rendered funeral services a rarity, they are still a tremendous asset when it comes to dealing with the occult, be it [bloodthirsty]() or [industrious Cults](), [Wizards](), [Revenants]() or [Devils](). A good chaplain can turn the tide against these threats - beyond that they're about on par with the [Curator]().
+**The Chaplain** is effectively a spiritual advisor for the crew, although they still answer to the [Head of Personnel](main/roles/command/head_of_personnel.md) when it comes to mortal employment. Although [recent medical breakthroughs]() have rendered funeral services a rarity, they are still a tremendous asset when it comes to dealing with the occult, be it [bloodthirsty]() or [industrious Cults](), [Wizards](), [Revenants]() or [Devils](). A good chaplain can turn the tide against these threats - beyond that they're about on par with the [Curator](citadel-wiki/main/roles/civillian/curator.md).
 
 ## Who Do You Want To Be(lieve) Today?
 Remember when customizing your character that you had the option to choose your religion name and deity? No time does that matter more than when you're the Chaplain, as they'll be the source of your power. In fact, your prayers are more likely to be answered than your average crew member - doubly so if you're also [Spiritual]().
@@ -22,7 +22,7 @@ Your holy book (which can be customized by using it in your active hand) is not 
 
 - **Followers of the Chaplain Kit:** Instead of armor, contains a leader hoodie and four follower hoodies.
 
-Lastly, provided a [greytider]() hasn't beaten you to it you'll also find a null rod in your quarters. Although effective against both cult and wizard magic as-is, it can be reshaped into [numerous forms](), but things to know for quick reference include:
+Lastly, provided a [greytider](citadel-wiki/main/roles/civillian/assistant.md) hasn't beaten you to it you'll also find a null rod in your quarters. Although effective against both cult and wizard magic as-is, it can be reshaped into [numerous forms](), but things to know for quick reference include:
 
 - Lasers fired from a holy lasrifle are only a threat to cultists. Even attempting to execute a non-cultist with one will only do a smidgen of harm, but that's still enough to upset [silicons]().
 
@@ -38,18 +38,18 @@ When the occult strikes, the station will likely come to you in their time of ne
 ...blessing the station at large is a good way to prevent occult activity. As for more specific concerns, here's how to handle some of the (un)usual suspects:
 
 ### Deus Cults
-Of all the threats you may face, cultists are easily the biggest but fortunately the one you can do the most about. [Command]() may entrust you with all (or at least some) access and [Security]() will treat you like an equal if not a superior, as holy water can denconvert cultists when fed to them. Unfortunately, you'll be a major target as well. The [Blood Cult]() in particular may be particularly relentless, especially if your sacrifice is required as a part of their ritual. Moreso than usual, try not to die.
+Of all the threats you may face, cultists are easily the biggest but fortunately the one you can do the most about. [Command](citadel-wiki/main/roles/command) may entrust you with all (or at least some) access and [Security](citadel-wiki/main/roles/security) will treat you like an equal if not a superior, as holy water can denconvert cultists when fed to them. Unfortunately, you'll be a major target as well. The [Blood Cult]() in particular may be particularly relentless, especially if your sacrifice is required as a part of their ritual. Moreso than usual, try not to die.
 
 ### Wizards - Mean Spirited
-Wizards fall into a bit of a grey area, as much as ["valid hunters"]() may disagree. Unfortunately more often than not they're [Clowns] on steroids - amusing themselves at the expense of everyone else. If (when) the wizard proves malicious...
+Wizards fall into a bit of a grey area, as much as ["valid hunters"]() may disagree. Unfortunately more often than not they're [Clowns]() on steroids - amusing themselves at the expense of everyone else. If (when) the wizard proves malicious...
 
 Although quite different in origin, [Revenants]() are a lot like most wizards in that they exist to be **fucking annoying**.
 
 ### Dealing with the Devil(s)
-While a rare occurrence, admittedly the [Curator]() and (strangely enough, the) [Lawyer]() play a much larger role in dispelling devils than you do. However, you have blessings you may be able to spread to others. Many devils are forbidden from trying to harm you or even set foot in your domain - your mere presence may keep them at bay.
+While a rare occurrence, admittedly the [Curator](citadel-wiki/main/roles/civillian/curator.md) and (strangely enough, the) [Lawyer]() play a much larger role in dispelling devils than you do. However, you have blessings you may be able to spread to others. Many devils are forbidden from trying to harm you or even set foot in your domain - your mere presence may keep them at bay.
 
 ## Divine Apathy
-Of course, if all the station faced was the paranormal, it would simply become normal. Some shifts you may find your services aren't particularly needed, and if not an [antagonist]() you may be unsure what to do. In these times, you may wish to consider the following:
+Of course, if all the station faced was the paranormal, it would simply become normal. Some shifts you may find your services aren't particularly needed, and if not an [antagonist](citadel-wiki/main/roles/antagonist) you may be unsure what to do. In these times, you may wish to consider the following:
 
 - **Serving the Chosen Few:** It's always possible there's at least one person on the station willing to hear you out. They may require spiritual guidance or wish to atone for their sins - it's in your interest to humor them.
 
